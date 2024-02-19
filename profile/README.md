@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This organisation is set up for hosting Marc Data Credit Reporting Portal repositories and teams collaboration. 
+This organisation is set up for hosting MARC Data Credit Reporting Portal repositories and teams collaboration. 
 
 <!--
 
